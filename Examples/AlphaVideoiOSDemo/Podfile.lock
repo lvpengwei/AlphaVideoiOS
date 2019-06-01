@@ -1,0 +1,16 @@
+PODS:
+  - AlphaVideoiOS (0.0.1)
+
+DEPENDENCIES:
+  - AlphaVideoiOS (from `../../`)
+
+EXTERNAL SOURCES:
+  AlphaVideoiOS:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  AlphaVideoiOS: f35ad0f6dfb57313d5720c982f35964f2500648c
+
+PODFILE CHECKSUM: 2bff87dce5c03263e3bc91fd5fd473f75f88914d
+
+COCOAPODS: 1.6.1
